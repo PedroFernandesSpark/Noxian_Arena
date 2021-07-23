@@ -1,0 +1,27 @@
+{
+  "name": "noxian_arena",
+  "version": "1.0.0",
+  "description": "A Simple game in JRpg style based on league of legends universe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroFernandesSpark/Noxian_Arena.git"
+  },
+  "keywords": [
+    "League",
+    "of",
+    "Legends"
+  ],
+  "author": "Pedro Spark Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroFernandesSpark/Noxian_Arena/issues"
+  },
+  "homepage": "https://github.com/PedroFernandesSpark/Noxian_Arena#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
